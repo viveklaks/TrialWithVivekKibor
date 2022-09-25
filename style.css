@@ -2,8 +2,13 @@
   width: auto;
   height: auto;
 }
+#title {text-align: center;}
+#image {
 
-.img-div {
-  width: auto;
-  height: auto;
+  width: 100%;
+  height:  auto;
+}
+#img-div {
+    display: block;
+    justify-content: space-between;
 }
